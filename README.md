@@ -1,2 +1,2 @@
 # GX Project Website
-gx-project.com
+https://gx-project.com
